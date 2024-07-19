@@ -6,7 +6,7 @@ A passionate Full Stack Developer from Madrid, currently living in Sydney. At 20
 - 🔭 I’m currently working as a freelance web developer, user-friendly web applications.
 - 🌱 I’m constantly learning new technologies and frameworks to stay updated with the latest industry trends.
 - 💬 Ask me about web development, JavaScript, React, Node.js, and any other cool tech!
-- 📫 How to reach me: [Email](mailto:a.medinagarcia12@gmail.com)
+- 📫 How to reach me: [a.medinagarcia12@gmail.com](mailto:a.medinagarcia12@gmail.com)
 - ⚡ Fun fact: I'm a tech enthusiast who loves exploring new places and cultures.
 
 ### Connect with me:
