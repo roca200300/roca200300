@@ -11,7 +11,7 @@ A passionate Full Stack Developer from Madrid, currently living in Sydney. At 20
 
 ### Connect with me:
 <p align="left">
-  <a href="[https://www.linkedin.com/in/alejandro-medina](https://www.linkedin.com/in/alejandro-medina-garc%C3%ADa-234b9724)">
+  <a href="https://www.linkedin.com/in/alejandro-medina-garc%C3%ADa-234b9724">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40">
   </a>
 </p>
