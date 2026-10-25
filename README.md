@@ -1,22 +1,25 @@
-<h1 align="center" font-weight="bold">Hi there, I'm Alejandro Medina 👋</h1>
+<h1 align="center">Hi, I'm Alejandro Medina 👋</h1>
 
-A passionate Full Stack Developer from Madrid, currently living in Sydney. At 20 years old, I bring fresh perspectives and innovative solutions to web development projects. I hold an Advanced Degree in Multiplatform Application Development (DAM), and my experience primarily revolves around web technologies.
+I'm a Computer Engineering student at Universidad Europea, with a Higher Technician qualification in Multiplatform Application Development (DAM).
+
+I enjoy building web applications and expanding my knowledge of software development. Here you'll find my personal projects, university work, and experiments as I continue learning.
 
 ### About Me
-- 🔭 I’m currently working as a freelance web developer, user-friendly web applications.
-- 🌱 I’m constantly learning new technologies and frameworks to stay updated with the latest industry trends.
-- 📄 Know about my experiences in the files "Alejandro Medina Resume 1.pdf" that you can find in this repository.
-- 📫 How to reach me: [a.medinagarcia12@gmail.com](mailto:a.medinagarcia12@gmail.com)
-- ⚡ Fun fact: I'm a tech enthusiast who loves exploring new places and cultures.
+- 🎓 Currently studying Computer Engineering at Universidad Europea.
+- 💻 Background in web development with HTML, CSS, and JavaScript.
+- 🌱 Developing my skills in Java, Python, and full-stack development.
+- 🤖 Interested in artificial intelligence and data-driven applications.
+- 🌏 Previous experience living and working in Australia.
+- 📫 Contact me: [a.medinagarcia12@gmail.com](mailto:a.medinagarcia12@gmail.com)
 
-### Connect with me:
+### Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/alejandro-medina-garc%C3%ADa-234b97240/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40">
   </a>
 </p>
 
-### Languages and Tools:
+### Languages and Tools
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40" width="40">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40" width="40">
@@ -29,6 +32,6 @@ A passionate Full Stack Developer from Madrid, currently living in Sydney. At 20
 </p>
 
 ### Get in Touch
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me!
+I'm open to internship opportunities, junior developer roles, and collaborating on software projects. Feel free to reach out!
 
-Thank you for visiting my GitHub profile!
+Thanks for visiting my GitHub profile!
